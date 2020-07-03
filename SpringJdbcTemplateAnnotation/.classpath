@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/SpringProject/SpringWithJDBCProject-master/SpringWithJDBC/Lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/SpringProject/SpringWithJDBCProject-master/SpringWithJDBC/Lib/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="E:/SpringProject/SpringWithJDBCProject-master/SpringWithJDBC/Lib/spring-aop-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/SpringProject/SpringWithJDBCProject-master/SpringWithJDBC/Lib/spring-aspects-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/SpringProject/SpringWithJDBCProject-master/SpringWithJDBC/Lib/spring-beans-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/SpringProject/SpringWithJDBCProject-master/SpringWithJDBC/Lib/spring-context-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/SpringProject/SpringWithJDBCProject-master/SpringWithJDBC/Lib/spring-context-support-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/SpringProject/SpringWithJDBCProject-master/SpringWithJDBC/Lib/spring-core-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/SpringProject/SpringWithJDBCProject-master/SpringWithJDBC/Lib/spring-expression-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/SpringProject/SpringWithJDBCProject-master/SpringWithJDBC/Lib/spring-jdbc-4.2.6.RELEASE.jar" sourcepath="C:/Program Files/Java/jdk1.8.0_241/src.zip"/>
+	<classpathentry kind="lib" path="E:/SpringProject/SpringWithJDBCProject-master/SpringWithJDBC/Lib/spring-tx-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
